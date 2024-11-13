@@ -1,3 +1,6 @@
 Django
 psycopg2-binary
 ptvsd
+djangorestframework
+dj-rest-auth
+djangorestframework-simplejwt
